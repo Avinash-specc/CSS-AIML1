@@ -1,0 +1,22 @@
+.sidebar{
+    width: 450px;
+    height:100vh;
+    background-color: orange;
+}
+.uppernavbar{
+    width:432px;
+    height:100vh;
+    position: fixed;
+    top:0;
+    background-color: blue;
+}
+.navbar{
+    width:100vh;
+    height:150px;
+}
+
+*{
+    margin:0;
+    padding:0;
+    overflow: hidden;
+}
